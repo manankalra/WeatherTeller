@@ -5,9 +5,9 @@ A Tkinter application which tells the current weather in the &lt;input> city.
 
 ## Uses
 
-1. [tkinter] (https://wiki.python.org/moin/TkInter)
-2. [requests] (http://docs.python-requests.org/en/latest/)
-3. [Open Weather Map API] (http://openweathermap.org/API)
+1. [tkinter](https://wiki.python.org/moin/TkInter)
+2. [requests](http://docs.python-requests.org/en/latest/)
+3. [Open Weather Map API](http://openweathermap.org/API)
 
 ## How to use?
 
